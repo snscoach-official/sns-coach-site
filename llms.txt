@@ -11,6 +11,7 @@
 
 ## 会社・コンテンツ
 - [会社情報](https://snscoach.com/company/)
+- [導入事例](https://snscoach.com/case/)
 - [お知らせ](https://snscoach.com/news/)
 - [資料](https://snscoach.com/download/)
 - [お問い合わせ](https://snscoach.com/contact/)
